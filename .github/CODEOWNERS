@@ -1,3 +1,4 @@
-* @lb
-*.js @lb
-/public/ @usernaem
+* @luciabajari
+*.js @luciabajari
+*.yml $bajaril
+/public/ @luciabajari
