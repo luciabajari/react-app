@@ -1,4 +1,4 @@
 * @luciabajari
 *.js @luciabajari
-*.yml $bajaril
+*.yml @bajaril
 /public/ @luciabajari
